@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React , Nodejs.**
 
-- 👨‍💻 All of my projects are available at [suhel.me/Portfolio/](suhel.me/Portfolio/)
+- 👨‍💻 All of my projects are available at [http://suhel.me/Portfolio](http://suhel.me/Portfolio/)
 
 - 💬 Ask me about **MERN**
 
