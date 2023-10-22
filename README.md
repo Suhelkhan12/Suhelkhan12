@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Suhel</h1>
+<h1 align="center">Hi 👋, I'm Suhel. Nice to meet you.</h1>
 <h3 align="center">A passionate developer from India</h3>
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" align="right"
         width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhelkhan12&label=Profile%20views&color=0e75b6&style=flat" alt="suhelkhan12" /> </p>
 
-- 🔭 I’m currently working on **a Brand page**
+- 🔭 I’m currently working on **project related to Github api and Freelance projects**
 
-- 🌱 I’m currently learning **React , Nodejs.**
+- 🌱 I’m currently learning **React, NextJs**
 
-- 👨‍💻 All of my projects are available at [http://suhel.me/Portfolio](http://suhel.me/Portfolio/)
+- 👨‍💻 All of my work are available [here](https://suhel-dev.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
