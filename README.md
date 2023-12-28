@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>My react and nextjs projects to brush up the concepts.<br><br>👯 I’m looking to collaborate on:<br>React projects.<br><br>🌱 I’m currently learning:<br>Nextjs, Advance Routing techniques and System design.<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, any general software development questions.<br><br>⚡ Fun fact:<br>I love tech.
+🔭 I’m currently working on:<br>My react and nextjs projects to brush up the concepts.<br><br>👯 I’m looking to collaborate on:<br>React projects.<br><br>🌱 I’m currently learning:<br>Nextjs, Advance Routing techniques and System design.<br><br>💬 Ask me about:<br>JavaScript,Typescript, React, Nextjs, any general software development questions.<br><br>⚡ Fun fact:<br>I love tech.
 
 
 ## 🌐 Socials:
