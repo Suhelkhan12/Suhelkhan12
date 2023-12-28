@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Suhelkhan12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhelkhan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🛣️ The Journey so far:
+![](https://api.roadmap.sh/v1-badge/wide/658c2e6bc731b7cdc7b2375d?variant=dark)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
