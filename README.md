@@ -17,6 +17,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Suhelkhan12&icon=1&color=1)](https://visitcount.itsvg.in)
-[![](https://api.roadmap.sh/v1-badge/wide/658c2e6bc731b7cdc7b2375d?variant=dark)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
