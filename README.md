@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>News platform which uses voice assistant. <br><br>👯 I’m looking to collaborate on:<br>React projects.<br><br>🌱 I’m currently learning:<br>Nextjs, Advance Routing techniques and System design.<br><br>💬 Ask me about:<br>JavaScript,Typescript, React, Nextjs, any general software development questions.<br><br>⚡ Fun fact:<br>I love tech.
+🔭 I’m currently working on:<br>transforming my code from javascript to typescript. <br><br>👯 I’m looking to collaborate on:<br>Frontend projects.<br><br>🌱 I’m currently learning:<br>Nextjs, Advance Routing techniques and System design.<br><br>💬 Ask me about:<br>JavaScript,Typescript, React, Nextjs, any general software development questions.<br><br>⚡ Fun fact:<br>I love tech.
 
 
 ## 🌐 Socials:
