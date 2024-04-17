@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>stackoverflow like platform. <br><br>👯 I’m looking to collaborate on:<br>Frontend projects.<br><br>🌱 I’m currently learning:<br>Nextjs, Advance Routing techniques and System design.<br><br>💬 Ask me about:<br>Javascript, Typescript, React, Nextjs, any general software development questions.<br><br>⚡ Fun fact:<br>There are only 10 types of people in the world: those who understand binary, and those who don't 😁 if you know, you know.....
+🔭 I’m currently working on:<br>stackoverflow like platform. <br><br>👯 I’m looking to collaborate on:<br>Frontend projects.<br><br>🌱 I’m currently learning:<br>Nextjs, Databses and System design.<br><br>💬 Ask me about:<br>Javascript, Typescript, React, Nextjs, any general software development questions.<br><br>⚡ Fun fact:<br>There are only 10 types of people in the world: those who understand binary, and those who don't 😁 if you know, you know.....
 
 
 ## 🌐 Socials:
