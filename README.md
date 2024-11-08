@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently learning:<br>databases, system design and building full stack applications. <br><br>👯 I’m looking to collaborate on:<br>Frontend projects.<br><br>🌱 I’m currently learning:<br>Nextjs, Databses and System design.<br><br>💬 Ask me about:<br>Javascript, Typescript, React, Nextjs, any general software development questions.<br><br>⚡ Fun fact:<br>There are only 10 types of people in the world: those who understand binary, and those who don't 😁 if you know, you know.....
+👋 About Me
+I’m Suhel Khan, a UI Engineer and Frontend Developer passionate about creating elegant, scalable, and user-friendly solutions.
+
+I’m currently learning:
+Databases, system design, and building full-stack applications.
+
+👯 I’m looking to collaborate on:
+Frontend projects.
+
+🌱 I’m currently learning:
+Next.js, databases, and system design.
+
+💬 Ask me about:
+JavaScript, TypeScript, React, Next.js, or any general software development questions.
+
+⚡ Fun fact:
+There are only 10 types of people in the world: those who understand binary, and those who don't 😁 — if you know, you know...
 
 
 ## 🌐 Socials:
