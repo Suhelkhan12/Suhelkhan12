@@ -37,3 +37,6 @@ There are only 10 types of people in the world: those who understand binary, and
 ---
 [![](https://visitcount.itsvg.in/api?id=Suhelkhan12&icon=1&color=1)](https://visitcount.itsvg.in)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
