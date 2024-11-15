@@ -1,4 +1,4 @@
-<img align="center" height="150" src="https://cdn.jsdelivr.net/gh/Suhelkhan12/Suhelkhan12@main/Images/suhel.png"/>
+<img align="center" height="250" src="https://cdn.jsdelivr.net/gh/Suhelkhan12/Suhelkhan12@main/Images/suhel.png"/>
 
 👋 About Me
 I’m Suhel Khan, a UI Engineer and Frontend Developer passionate about creating elegant, scalable, and user-friendly solutions.
