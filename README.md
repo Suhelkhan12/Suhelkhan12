@@ -8,7 +8,7 @@ Databases, system design, and building full-stack applications.
 Frontend projects, Backend projects & Fullstack projects.
 
 🌱 I’m currently learning:
-Next.js, databases, and system design.
+Node.js, databases, orms, how to architect a fullstack app and system design.
 
 💬 Ask me about:
 JavaScript, TypeScript, React, Next.js, C++, Data structures or any general software development questions.
