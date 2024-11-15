@@ -41,7 +41,7 @@ There are only 10 types of people in the world: those who understand binary, and
 <a href="[https://www.prisma.io/](https://zustand.docs.pmnd.rs/getting-started/introduction)" target="_blank"><img style="margin: 10px" src="https://www.suhelkhan.com/tech/Zustand.svg" alt="Zustand" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://www.suhelkhan.com/_next/image?url=%2Ftech%2Fexpress-new.png&w=256&q=75" alt="Express.js" height="50" /></a>
-<a href="https://www.suhelkhan.com/tech/Zod.svg" target="_blank"><img style="margin: 10px" src="https://zod.dev/" alt="Zod" height="50" /></a>  
+<a href="https://zod.dev/ " target="_blank"><img style="margin: 10px" src="https://www.suhelkhan.com/tech/Zod.svg" alt="Zod" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
 <a href="https://webflow.com/" target="_blank"><img style="margin: 10px" src="https://www.suhelkhan.com/_next/image?url=%2Ftech%2Fwebflow.png&w=256&q=75" alt="Webflow" height="50" /></a>
 </div>
