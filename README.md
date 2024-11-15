@@ -7,13 +7,10 @@ I’m Suhel Khan, a UI Engineer and Frontend Developer passionate about creating
 Building a video compression tool using Next.js and ffmpeg.
 
 ### I’m currently learning 🙇🏻‍♂️:
-Databases, system design, and building full-stack applications.
+Node.js, databases, orms, how to architect a fullstack app and system design.
 
 ### I’m looking to collaborate on 👯:
 Frontend projects, Backend projects & Fullstack projects.
-
-### I’m currently learning 🌱:
-Node.js, databases, orms, how to architect a fullstack app and system design.
 
 ### Ask me about 💬:
 JavaScript, TypeScript, React, Next.js, C++, Data structures or any general software development questions.
