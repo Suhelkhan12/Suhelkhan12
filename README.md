@@ -5,13 +5,13 @@ I’m currently learning:
 Databases, system design, and building full-stack applications.
 
 👯 I’m looking to collaborate on:
-Frontend projects.
+Frontend projects, Backend projects & Fullstack projects.
 
 🌱 I’m currently learning:
 Next.js, databases, and system design.
 
 💬 Ask me about:
-JavaScript, TypeScript, React, Next.js, or any general software development questions.
+JavaScript, TypeScript, React, Next.js, C++, Data structures or any general software development questions.
 
 ⚡ Fun fact:
 There are only 10 types of people in the world: those who understand binary, and those who don't 😁 — if you know, you know...
