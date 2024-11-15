@@ -23,9 +23,9 @@ There are only 10 types of people in the world: those who understand binary, and
 
 
 ### 🌐 Let's connect over a coffee or to collaborate on something:
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhel-khan-925aa222a) 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhel-khan-925aa222a) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://suhelkhan.com)
+
 
 ### Technology I use everyday:
 <div align="center">  
