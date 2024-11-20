@@ -4,7 +4,7 @@
 I’m Suhel Khan, a UI Engineer and Frontend Developer passionate about creating elegant, scalable, and user-friendly solutions.
 
 ### I’m currently working on 🧑🏻‍💻:
-Building a video compression tool using Next.js and ffmpeg.
+Building a project management tool using Next.js for frontend, Node.js for backend and for hosting purpose I'll use AWS(which I don't know so this will be good learning).
 
 ### I’m currently learning 🙇🏻‍♂️:
 Node.js, databases, orms, how to architect a fullstack app and system design.
