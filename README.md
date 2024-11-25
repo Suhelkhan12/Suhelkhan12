@@ -4,7 +4,7 @@
 I’m Suhel Khan, a UI Engineer and Frontend Developer passionate about creating elegant, scalable, and user-friendly solutions.
 
 ### I’m currently working on 🧑🏻‍💻:
-Building a project management tool using Next.js for frontend, Node.js for backend and for hosting purpose I'll use AWS(which I don't know so this will be good learning).
+Building a digital whiteboard with Nextjs frontend, Nodejs backend and socket.io for real time collaborations.
 
 ### I’m currently learning 🙇🏻‍♂️:
 Node.js, databases, orms, how to architect a fullstack app and system design.
