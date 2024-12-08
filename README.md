@@ -3,6 +3,8 @@
  - 👋 Hi, I’m Suhel
  - 👀 I’m interested in full stack web Application, low-code tools and Cloud developments.
  - 💞️ Looking for oppotunity as following emerging tech stacks.
+ - 👨🏼‍💻 I'm currently working on building a code snipped generator tool with Nextjs frontend, Typescript for more type safety, Prisma ORM for db queries, Postgres for serverless sql db, 
+      Next auth for authentication and zustand for global state management
 
 #### Frontend
  - Html, Css & Javascript
